@@ -1,0 +1,11 @@
+number=input("enter your number")
+number2=input("enter your number")
+number3=input("enter your number")
+number4=input("enter your number")
+number5=input("enter your number")
+
+print(int(number))
+print(int(number2))
+print(int(number3))
+print(int(number3))
+print(int(number5))

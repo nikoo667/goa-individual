@@ -1,0 +1,6 @@
+name=str(input("what is your name"))
+surname=str(input("what is your surname"))
+age=str(input("what is your age"))
+city=str(input("what is your city of residence"))
+hobby=str(input("what is your hobby"))
+print(name + surname + age + city + hobby)

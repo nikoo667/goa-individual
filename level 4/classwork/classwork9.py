@@ -1,0 +1,10 @@
+number1=98
+number2=99
+number3=23
+number4=58
+number5=57
+print(str(number1))
+print(str(number2))
+print(str(number3))
+print(str(number4))
+print(str(number5))

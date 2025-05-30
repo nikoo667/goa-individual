@@ -1,8 +1,8 @@
-name="nikolozi "
-surname="dzeluri "
-age="10 "
-hobby="programing "
-subject="math "
+name="nikolozi"
+surname="dzeluri"
+age="10"
+hobby="programing"
+subject="math"
 
 print(name +surname +age +hobby +subject)
 

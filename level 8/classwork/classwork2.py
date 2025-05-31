@@ -1,0 +1,1 @@
+# boolean არის true და false-ის ერთობლიობა

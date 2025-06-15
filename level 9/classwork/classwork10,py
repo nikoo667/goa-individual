@@ -1,0 +1,3 @@
+number=47
+print(str(number))
+print(type(number))
